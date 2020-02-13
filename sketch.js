@@ -15,8 +15,8 @@ function setup(){
    sun.addImage(sunImg);
    //mars.addImage(marsImg);
    earth.addImage(earthImg);
-   //
-  mars.scale = 0.07;
+   
+ // mars.scale = 0.07;
   earth.scale = 0.05;
  sun.scale = 0.01;
  // sun.width =0.4;
