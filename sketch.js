@@ -28,7 +28,7 @@ earth.velocityX = 5;
 }
 function draw() {
   background("black");
-  //mars.rotation=mars.rotation+5;
+  text("Well this is what's gonna happen in 7.5 Billion years ;",200,20)  //mars.rotation=mars.rotation+5;
   earth.rotation=earth.rotation+5;
   if(frameCount%60 === 0){
     sun.scale = sun.scale+0.01;
